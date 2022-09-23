@@ -1,0 +1,144 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Ahmad Ismael",
+      "email": "ismaelahmad63@hotmail.com",
+      "contact": "301-370-2831",
+      "address": "79 Almo Trail"
+    },
+    {
+      "id": 2,
+      "name": "Paulo Jose Calderon",
+      "email": "paulojosecalderon@gmail.com",
+      "contact": "Active",
+      "address": "262 Memorial Trail"
+    },
+    {
+      "id": 3,
+      "name": "Michael Jordan",
+      "email": "jpidduck0@webmd.com",
+      "contact": "786-515-8648",
+      "address": "63235 Surrey Center"
+    },
+    {
+      "id": 4,
+      "name": "Happy Hogan",
+      "email": "hkeford1@toplist.cz",
+      "contact": "974-639-1226",
+      "address": "8508 Golf Center"
+    },
+    {
+      "id": 5,
+      "name": "Whitaker Ollie",
+      "email": "wollie2@noaa.gov",
+      "contact": "773-424-2051",
+      "address": "9 Clarendon Junction"
+    },
+    {
+      "id": 6,
+      "name": "Bevin Warrillow",
+      "email": "bwarrillow3@accuweather.com",
+      "contact": "571-495-3646",
+      "address": "89831 Pond Alley"
+    },
+    {
+      "id": 7,
+      "name": "Lona Gillani",
+      "email": "lgillani4@acquirethisname.com",
+      "contact": "502-579-9646",
+      "address": "14349 Bunting Junction"
+    },
+    {
+      "id": 8,
+      "name": "Gratiana Caccavale",
+      "email": "gcaccavale5@cisco.com",
+      "contact": "212-572-1017",
+      "address": "825 Larry Alley"
+    },
+    {
+      "id": 9,
+      "name": "Nels Mundwell",
+      "email": "nmundwell6@scientificamerican.com",
+      "contact": "737-560-6164",
+      "address": "866 Holy Cross Court"
+    },
+    {
+      "id": 10,
+      "name": "Frasquito Nutman",
+      "email": "fnutman7@furl.net",
+      "contact": "883-133-5551",
+      "address": "049 Arrowood Plaza"
+    },
+    {
+      "id": 11,
+      "name": "Indira Barrim",
+      "email": "ibarrim8@ezinearticles.com",
+      "contact": "440-613-0839",
+      "address": "45 Schmedeman Trail"
+    },
+    {
+      "id": 12,
+      "name": "Joelynn Teggin",
+      "email": "jteggin9@nih.gov",
+      "contact": "396-326-9040",
+      "address": "5475 Old Shore Park"
+    },
+    {
+      "id": 13,
+      "name": "Caryl Bodimeade",
+      "email": "cbodimeadea@addtoany.com",
+      "contact": "475-820-0978",
+      "address": "67 Lotheville Alley"
+    },
+    {
+      "id": 14,
+      "name": "Virgie Dobey",
+      "email": "vdobeyb@about.com",
+      "contact": "393-699-3065",
+      "address": "7957 Roth Circle"
+    },
+    {
+      "id": 15,
+      "name": "Karlen Hebbs",
+      "email": "khebbsc@nbcnews.com",
+      "contact": "401-358-4682",
+      "address": "53 Colorado Point"
+    },
+    {
+      "id": 16,
+      "name": "Stanislas Tuft",
+      "email": "stuftd@bbc.co.uk",
+      "contact": "392-738-6075",
+      "address": "0882 Westport Court"
+    },
+    {
+      "id": 17,
+      "name": "Alison Summerside",
+      "email": "asummersidee@wikia.com",
+      "contact": "705-188-4350",
+      "address": "4 Ridgeway Center"
+    },
+    {
+      "id": 18,
+      "name": "Tyson Tillyer",
+      "email": "ttillyerf@wikia.com",
+      "contact": "730-609-1369",
+      "address": "5 Welch Pass"
+    },
+    {
+      "id": 19,
+      "name": "Marco Carmichael",
+      "email": "mcarmichaelg@comsenz.com",
+      "contact": "278-527-1029",
+      "address": "09 Roth Lane"
+    },
+    {
+      "id": 20,
+      "name": "Bale Yewdall",
+      "email": "byewdallh@who.int",
+      "contact": "718-843-6036",
+      "address": "051 Bluestem Terrace"
+    }
+  ]
+}
